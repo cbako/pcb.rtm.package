@@ -1,12 +1,15 @@
 Package: pcb.rtm.package
-Title: What the Package Does (One Line, Title Case)
+Title: PCB Reactive Transport Model
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Christian", "Bako", , "cmbako1@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0001-9722-4964"))
+    person("Andres", "Martinez", , "andres-martinez@uiowa.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0002-0572-1494"))
+Description: The pcb.rtm package provides tools to analyze the effects of PCB-degrading microorganisms on reactive transport processes in bioreactor experiments. The package includes functions to simulate bioreactor experiments and generate visualizations of the results. The package also includes example datasets from Bako et al., 2022, which are available on the Iowa Research Online (IRO) data repository. The package's functionality is documented using an R markdown vignette.
+Depends: 
+    R (>= 3.2.0)
+License: MPL 2.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
