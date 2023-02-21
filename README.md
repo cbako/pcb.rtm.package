@@ -23,6 +23,7 @@ library(pcb.rtm.package)
 If you would like to contribute to this package, please open an issue or pull request on the GitHub repository.
 
 #License
+
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 Mozilla Public License
