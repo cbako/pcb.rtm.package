@@ -12,6 +12,7 @@ devtools::install_github("username/PCB-Reactive-Transport-Model")
 ```
 
 #Usage
+
 To run the model, you first need to load the package:
 
 ```r
